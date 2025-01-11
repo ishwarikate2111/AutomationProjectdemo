@@ -1,3 +1,3 @@
 # AutomationProjectdemo
-This is my first Git Repository 
-Author- Ishwari Kate
+This is my first Git Repository.
+Author- Ishwari Kate.
